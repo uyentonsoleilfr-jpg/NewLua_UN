@@ -449,7 +449,7 @@ const AGRIZEN_DATA = {
     ],
     "headers": [
       "Bước",
-      "Phân loại cửa tiếp cận",
+      "Phân loại cử tiếp cận",
       "Tại sao PH14 CẤP THIẾT & Kết quả đạt được",
       "Cách pha chung & Lời thoại chốt đơn theo Bảng Giá Mới"
     ],
@@ -461,19 +461,19 @@ const AGRIZEN_DATA = {
         "handling": "• 3 CÂU HỎI THĂM RUỘNG:\n1. \"Ruộng mình sạ giống gì, bữa nay lúa được bao nhiêu ngày rồi chú?\"\n2. \"Nhổ thử bụi lúa lên coi rễ cám trắng hay bị nghẹt phèn đen đầu rễ vậy chú?\"\n3. \"Đợt này rải phân NPK lúa bắt nhanh không chú, có bị hao phân không?\"\n\n👉 Câu gỡ giá nếu khách hỏi:\n\"Dạ chú yên tâm, hàng lon thiếc Mỹ tính ra 1 công cho 1 cử xịt thuốc chỉ có mười mấy đến hai mươi ngàn đồng thôi, rẻ hơn chú rải nửa bao phân nhiều.\""
       },
       {
-        "step": "Bước 2\n(CỬA 1)",
+        "step": "Bước 2\n(CỬ 1)",
         "stage": "Lúa Nhỏ: Đẻ Nhánh / Nở Bụi\n\n(15 – 35 ngày)\n\n🌱 PH14 (Chủ lực) + Rước Đòng (Dưỡng chồi)",
         "guidance": "• TẠI SAO CẦN PH14:\n- Rơm rạ mục sinh axit làm ngộ độc rễ. Đất chua (pH < 5.0) làm lân bị bọc khóa, rễ nghẹt đen.\n- PH14: Kiềm Biochar Mỹ kéo pH lên > 6.0 sau 3-5 ngày, giải độc axit, bung rễ cám trắng xóa.\n- Hỗ trợ: Mở đường cho rễ hút sạch phân NPK, cộng hưởng cùng ZAKi Rước Đòng làm nở bụi cực mạnh, chồi hữu hiệu mập mạp.",
         "handling": "• CÁCH PHA CHUNG 1 LẦN:\nCho nước vào 2/3 bình → Đổ PH14 quậy đều → Rót ZAKi Rước Đòng vào sau → Xịt 1 lượt duy nhất, không tốn thêm công!\n\n• LỜI THOẠI CẤP THIẾT:\n\"Chú ơi, đất đang phèn mà chú không giải độc rễ thì rải bao phân nào xuống cũng trôi mất nửa bao. Chú xịt PH14 kèm lon Rước Đòng 1 lần một, vừa cứu bộ rễ bung trắng, vừa nở bụi kín ruộng mà bớt hẳn 1 cử rải phân NPK đắt đỏ chú nha!\""
       },
       {
-        "step": "Bước 2\n(CỬA 2)",
+        "step": "Bước 2\n(CỬ 2)",
         "stage": "Lúa Làm Đòng: Tim Đèn / Ôm Bắp\n\n(40 – 55 ngày)\n\n🌾 Rước Đòng (Chủ lực) + PH14 (Dẫn truyền)",
         "guidance": "• TẠI SAO CỬ ĐÒNG VẪN CẦN PH14:\n- Giữa vụ đất bị nén chặt, phèn đáy xì lên làm tụt pH đột ngột, thối rễ đáy → lúa nghẹn đòng, thui mầm hoa, đòng ngắn ngủn.\n- PH14: Làm \"chất đệm\" ổn định pH vùng rễ, kích thích dòng nhựa luyện đẩy dinh dưỡng Lân 32.5% của ZAKi Rước Đòng lên lá và đòng nhanh gấp đôi.\n- Kết quả: Đòng no tròn mập bắp, tăng từ 130 hạt lên 180–220 hạt/bông, trổ thoát rộ 100%.",
         "handling": "• CÁCH PHA CHUNG 1 LẦN:\nĐổ chung PH14 + Rước Đòng + thuốc sâu rầy/vi khuẩn vào 1 bình 25L hoặc 1 bồn Drone bay xịt êm ru.\n\n• LỜI THOẠI CẤP THIẾT:\n\"Nhiều chú nghĩ cử đòng không cần PH14 là uổng lắm! Cây lúa ôm đòng cần lực hút cực mạnh, rễ mà bị phèn bóp nghẹt thì đòng bị teo liền. Có PH14 dẫn đường, đòng mọng bắp, bông dài tới nách, sau này trổ thoát đồng loạt không lo nghẹn đòng chú ơi.\""
       },
       {
-        "step": "Bước 2\n(CỬA 3)",
+        "step": "Bước 2\n(CỬ 3)",
         "stage": "Lúa Trổ / Vô Sữa / Cong Trái Me\n\n(60 – 80 ngày)\n\n🍚 Vô Gạo (Chủ lực) + PH14 (Giữ rễ)",
         "guidance": "• TẠI SAO VÔ GẠO PHẢI CÓ PH14 ĐI CÙNG:\n- Cuối vụ rễ dễ già cỗi, đen rụi sớm làm lúa bị \"đứt sữa\", lá đòng vàng sụm → hạt sát trong cậy bị lép lửng (mất 15-20% sản lượng khi gặt).\n- PH14: Giữ ẩm và giữ sức sống cho chùm rễ đến ngày gặt, đảm bảo cây bơm nước và dinh dưỡng liên tục lên bông.\n- Hỗ trợ: Bơm dòng Kali sữa ZAKi Vô Gạo nén tinh bột xối xả vào tận hạt cậy cổ bông, hạt chắc mẩy, sáng trấu, tăng 14% trọng lượng hạt (TGW).",
         "handling": "• CÁCH PHA CHUNG 1 LẦN:\nĐổ chung PH14 + Vô Gạo + thuốc lem lép/đạo ôn cổ bông vào cùng 1 bình xịt hoặc bình Drone.\n\n• LỜI THOẠI CẤP THIẾT:\n\"Cử này PH14 giữ cho bộ rễ sống dai để bơm sữa liên tục, kết hợp lon Vô Gạo kali sữa nén chặt hạt lúa tới cậy. Cân lúa nặng ký, không bao giờ lo bị ngót ký khi phơi sấy chú ạ.\""
