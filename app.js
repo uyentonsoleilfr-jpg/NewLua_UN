@@ -95,6 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
     pageProducts.style.display = pageId === 'products' ? 'block' : 'none';
     pageScriptVG.style.display = pageId === 'script-vg' ? 'block' : 'none';
     pageScriptPH.style.display = pageId === 'script-ph' ? 'block' : 'none';
+    if (pageId === 'script-ph') {
+      renderScriptPH();
+    }
     if (pageScheduleRice) pageScheduleRice.style.display = pageId === 'schedule-rice' ? 'block' : 'none';
     if (pageAlkalineDeep) pageAlkalineDeep.style.display = pageId === 'alkaline-deep' ? 'block' : 'none';
     if (pageRiceDict) pageRiceDict.style.display = pageId === 'rice-dict' ? 'block' : 'none';
