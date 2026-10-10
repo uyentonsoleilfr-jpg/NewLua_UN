@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     'script-ph': {
       title: '3. Kịch bản Bộ 3 (PH14)',
-      desc: 'BẢNG KỊCH BẢN TƯ VẤN BỘ 3: PH14 + RƯỚC ĐÒNG + VÔ GẠO (Chính sách: 1 Combo 3 lon tặng 1 lon Rước Đòng [Nhận 4 lon] – 2 Combo 6 lon tặng 2 lon Rước Đòng [Nhận 8 lon])'
+      desc: 'Quy trình tư vấn 5 bước phối hợp PH14 + Rước Đòng + Vô Gạo phun chung 1 bình theo các cử sinh lý lúa'
     },
     'schedule-rice': {
       title: '4. MÙA VỤ LÚA',
