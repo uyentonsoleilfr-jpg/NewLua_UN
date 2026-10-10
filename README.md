@@ -8,7 +8,7 @@ Hệ thống tài liệu và ứng dụng tra cứu kỹ thuật nông học, l�
 
 1. **📦 1. Thông Tin Sản Phẩm:** Chi tiết 5 dòng sản phẩm lon thiếc cao cấp (PH14 Kiềm sinh học, ZAKi Rước Đòng, ZAKi Vô Gạo, Mix Combi, Siêu Loang Trải Luke).
 2. **🌾 2. Kịch Bản ZAKi (VG):** Quy trình tư vấn 5 bước ZAKi Rước Đòng & Vô Gạo theo 6 cử sinh lý lúa.
-3. **🧪 3. Kịch Bản PH14:** Quy trình tư vấn 5 bước xử lý đất phèn chua, ngộ độc hữu cơ và nâng pH đất.
+3. **🧪 3. Kịch bản Bộ 3 (PH14):** Bảng kịch bản tư vấn Bộ 3 (PH14 + Rước Đòng + Vô Gạo), chính sách Mua Combo 3 bộ tặng 1 lon Rước Đòng – Phun chung 1 bình.
 4. **📅 4. Mùa Vụ Lúa:** Lịch mùa vụ 3 miền, 5 giai đoạn sinh trưởng kèm ảnh chụp thực tế & 5 đợt bón phân chuẩn.
 5. **🧪 5. Kiềm Sinh Học Biochar:** Phân tích khoa học pH > 13, công nghệ Biochar hoạt hóa Mỹ và quy chuẩn tưới 4 nhóm cây.
 6. **📖 6. Từ Điển Lúa:** 50 thuật ngữ tiếng lóng nông dân 3 miền (Miền Nam, Miền Bắc, Miền Trung) kèm dấu hiệu và câu thoại mẫu.

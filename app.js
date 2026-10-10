@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', () => {
       desc: 'Hướng dẫn gọi điện theo 6 cử sinh lý lúa, xử lý tình huống và chính sách Combo Mua 3 Tặng 1'
     },
     'script-ph': {
-      title: '3. KỊCH BẢN TƯ VẤN 5 BƯỚC - PH14',
-      desc: 'Hướng dẫn hạ phèn, nâng pH đất, cải tạo đất từ gốc theo công nghệ Biochar hoạt hóa của Mỹ'
+      title: '3. Kịch bản Bộ 3 (PH14)',
+      desc: 'BẢNG KỊCH BẢN TƯ VẤN BỘ 3: PH14 + RƯỚC ĐÒNG + VÔ GẠO (Chính sách: Mua Combo 3 bộ [RĐ + VG + PH14] tặng 1 lon Rước Đòng – Phun chung 1 bình)'
     },
     'schedule-rice': {
       title: '4. MÙA VỤ LÚA',
@@ -290,7 +290,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <tr>
         ${r.isFirstOfGroup ? `
           <td class="col-step" rowspan="${r.rowSpan}">
-            <div class="script-step-badge">${r.step}</div>
+            <div class="script-step-badge" style="white-space: pre-line;">${r.step}</div>
           </td>
         ` : ''}
         <td class="col-stage">
@@ -305,17 +305,28 @@ document.addEventListener('DOMContentLoaded', () => {
       </tr>
     `).join('');
 
+    const headers = scriptData.headers || [
+      'Bước Kịch Bản',
+      'Tên Giai Đoạn & Tình Huống Ruộng',
+      'Chỉ Dẫn Tư Vấn',
+      'Hướng Dẫn Xử Lý Tình Huống'
+    ];
+
+    const titleHtml = scriptData.title.includes('\n')
+      ? scriptData.title.split('\n')[0] + `<br><span style="font-size: 14px; font-weight: 600; color: #047857; display: inline-block; margin-top: 4px;">${scriptData.title.split('\n').slice(1).join('<br>')}</span>`
+      : scriptData.title;
+
     container.innerHTML = `
       <div class="script-container">
         <h2 class="script-header-title">
           <span>${icon}</span>
-          <span>${scriptData.title}</span>
+          <span>${titleHtml}</span>
         </h2>
 
         <div class="script-notice-banner">
           <div class="notice-heading">
             <span>📌</span>
-            <span>3 Lưu Ý Bắt Buộc Dành Cho Tư Vấn Viên:</span>
+            <span>${scriptData.noticeTitle || '3 Lưu Ý Bắt Buộc Dành Cho Tư Vấn Viên:'}</span>
           </div>
           <ul class="notice-list">
             ${notesHtml}
@@ -326,10 +337,10 @@ document.addEventListener('DOMContentLoaded', () => {
           <table class="script-master-table">
             <thead>
               <tr>
-                <th style="width: 110px; text-align: center;">Bước Kịch Bản</th>
-                <th style="width: 230px;">Tên Giai Đoạn & Tình Huống Ruộng</th>
-                <th style="width: 500px;">Chỉ Dẫn Tư Vấn</th>
-                <th style="width: 440px;">Hướng Dẫn Xử Lý Tình Huống</th>
+                <th style="width: 110px; text-align: center;">${headers[0]}</th>
+                <th style="width: 230px;">${headers[1]}</th>
+                <th style="width: 500px;">${headers[2]}</th>
+                <th style="width: 440px;">${headers[3]}</th>
               </tr>
             </thead>
             <tbody>

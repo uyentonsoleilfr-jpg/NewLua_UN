@@ -440,48 +440,61 @@ const AGRIZEN_DATA = {
     ]
   },
   "scriptPH": {
-    "title": "BẢNG KỊCH BẢN TƯ VẤN 5 BƯỚC - SẢN PHẨM PH14",
+    "title": "BẢNG KỊCH BẢN TƯ VẤN BỘ 3: PH14 + RƯỚC ĐÒNG + VÔ GẠO\n(Chính sách: Mua Combo 3 bộ [RĐ + VG + PH14] tặng 1 lon Rước Đòng – Phun chung 1 bình)",
+    "noticeTitle": "3 Điểm Cốt Lõi Về Bộ 3 & PH14 Dành Cho Tư Vấn Viên:",
     "notes": [
-      "1. ĐÁNH VÀO NHU CẦU SẴN CÓ: Khách để lại SĐT -> ĐÃ CÓ SẴN NHU CẦU về hạ phèn, nâng pH đất và dưỡng lại nền đất suy kiệt! Sale không rào đón vòng vèo, đi thẳng vào khai thác 5 thông số ở Bước 1.",
-      "2. NÊU RÕ NHƯỢC ĐIỂM VÔI ĐÁ: Vôi đá hạ phèn tạm thời nhưng KHÔNG DUY TRÌ ĐƯỢC pH LÂU DÀI, làm đất bị chai lì lèn vắt và tiêu diệt hết hệ vi sinh vật có lợi.",
-      "3. BẬT CÔNG NGHỆ BIOCHAR MỸ & LIỀU PHA CHUẨN: 1 Lon 1L pha 1.000 – 1.500 Lít nước. Biochar hoạt hóa Mỹ giúp giữ nước, giữ phân, phục hồi vi sinh và cải tạo đất từ gốc."
+      "1. PH14 LÀ CHẤT DẪN BẮT BUỘC PHẢI CÓ MẶT TRONG TẤT CẢ CÁC GIAI ĐOẠN: Từ đẻ nhánh, làm đòng đến trổ chín đều phải có PH14 đi kèm.",
+      "2. QUY TẮC PHỐI TRỘN 1 LẦN – PHUN CHUNG 1 BÌNH / BỒN DRONE: Không chia cử lắt nhắt, không tốn thêm 1 công xịt nào của nông dân.",
+      "3. ĐÒN BẨY KINH TẾ CẤP THIẾT: Chứng minh rõ không có PH14 đi kèm thì xịt phân bổ hay rải phân NPK đều bị hao hụt 40–50%."
+    ],
+    "headers": [
+      "Bước",
+      "Phân loại cửa tiếp cận",
+      "Tại sao PH14 CẤP THIẾT & Kết quả đạt được",
+      "Cách pha chung & Lời thoại chốt đơn theo Bảng Giá Mới"
     ],
     "rows": [
       {
         "step": "Bước 1",
-        "stage": "Chào Hỏi & Khai Thác 5 Thông Số Đất Trồng\n\n(Mở Đầu Cuộc Gọi)",
-        "guidance": "• MỤC TIÊU: Mở đầu trực tiếp, lấy đủ 5 dữ liệu ruộng/vườn để nhẩm liều lượng và gói Combo trọn vụ:\n1. Loại cây gì? (Lúa, Sầu riêng, Bưởi, Cam, Rau màu...)\n2. Diện tích ra sao? (Mấy công 1.000m², mấy ha, hay mấy trăm gốc)\n3. Tuổi cây / Ngày tuổi? (Lúa 15-20 ngày, Sầu riêng 4 năm tuổi...)\n4. Chỉ số pH bao nhiêu? (Đã đo pH chưa: 3.5, 4.0 hay 4.5...)\n5. Thuốc & Vôi trước giờ? (Trước giờ hạ phèn bằng cái gì, có hay mua vôi đá rải gốc không...)",
-        "handling": "1. KHÁCH HỢP TÁC: Ghi nhanh 5 thông số -> Sale nhẩm số lon (1 lon 1L pha 1.000 - 1.500L nước) và nhắm sẵn Gói Combo Trọn Vụ.\n\n2. ⚠️ KHÁCH TỪ CHỐI / NÉ TRÁNH / ĐÒI GIÁ NGAY:\n-> Sale không đặt thêm câu hỏi nữa -> CHUYỂN SANG BƯỚC 2 NGAY LẬP TỨC!"
+        "stage": "Khai Thác Thông Tin & Mở Cửa Cuộc Gọi\n\n(30 - 45s)",
+        "guidance": "• MỤC TIÊU:\n- Lấy 3 thông số: Ngày tuổi của lúa, diện tích mấy chục công (1.000m²), và tình trạng rễ thâm đen/nước xì phèn.\n- Phần lưu ý đầu: Tại sao PH14 là chất dẫn bắt buộc phải có mặt trong TẤT CẢ các giai đoạn (từ đẻ nhánh, làm đòng đến trổ chín).\n- Quy tắc phối trộn 1 lần – Phun chung 1 bình/bồn Drone: Không chia cử lắt nhắt, không tốn thêm 1 công xịt nào của nông dân.\n- Đòn bẩy kinh tế cấp thiết: Chứng minh rõ không có PH14 đi kèm thì xịt phân bổ hay rải phân NPK đều bị hao hụt 40–50%.\n\n• KẾT QUẢ ĐẠT ĐƯỢC:\nNhắm ngay gói phù hợp: 1 Bộ (3 lon), 2 Bộ (6 lon) hay Gói 3 Bộ Tặng 1 lon RĐ (10 lon).",
+        "handling": "• 3 CÂU HỎI THĂM RUỘNG:\n1. \"Ruộng mình sạ giống gì, bữa nay lúa được bao nhiêu ngày rồi chú?\"\n2. \"Nhổ thử bụi lúa lên coi rễ cám trắng hay bị nghẹt phèn đen đầu rễ vậy chú?\"\n3. \"Đợt này rải phân NPK lúa bắt nhanh không chú, có bị hao phân không?\"\n\n👉 Câu gỡ giá nếu khách hỏi:\n\"Dạ chú yên tâm, hàng lon thiếc Mỹ tính ra 1 công cho 1 cử xịt thuốc chỉ có mười mấy đến hai mươi ngàn đồng thôi, rẻ hơn chú rải nửa bao phân nhiều.\""
       },
       {
-        "step": "Bước 2",
-        "stage": "Phân Tích Ưu Thế Biochar Mỹ & Bóc Trần Nhược Điểm Vôi Đá",
-        "guidance": "• BÓC TRẦN VÔI ĐÁ: Vôi nung tuy chi phí ban đầu rẻ hơn nhưng KHÔNG DUY TRÌ pH LÂU DÀI, cấu trúc đất không cải thiện (vẫn chai cứng, lèn vắt) mà lại tiêu diệt hết vi sinh vật có lợi.\n\n• BẬT ƯU ĐIỂM BIOCHAR MỸ: pH 14 của Miền Nam theo công nghệ Biochar hoạt hóa Mỹ ngoài nâng pH hạ phèn còn GIỮ NƯỚC, GIỮ PHÂN BÓN, PHỤC HỒI HỆ VI SINH VÀ CẢI TẠO CẤU TRÚC ĐẤT TỪ GỐC. Giúp rễ đâm rễ cám trắng phau, hấp thu 100% phân bón NPK rải gốc.\n\n• PHÂN TÍCH GIÁ RẺ: 1 công đất / 1 gốc cây tưới 1 cử chưa tới 20k - 24k tiền thuốc, rẻ hơn nhiều so với tiền mua vôi cộng với số tiền 40%-50% phân NPK bị đất chua bọc khóa lãng phí!",
-        "handling": "• LIỀU PHA CHUẨN: 1 Lon 1L pha 1.000 – 1.500 Lít nước tưới hoặc phun xịt.\n\n• KHẲNG ĐỊNH AN TOÀN: Nước thuốc hòa tan 1.000 - 1.500L mát rượi, không lo nóng xót rễ, nâng pH lên 5.5 - 6.5 bền vững dài lâu cho nhiều mùa vụ."
+        "step": "Bước 2\n(CỬA 1)",
+        "stage": "Lúa Nhỏ: Đẻ Nhánh / Nở Bụi\n\n(15 – 35 ngày)\n\n🌱 PH14 (Chủ lực) + Rước Đòng (Dưỡng chồi)",
+        "guidance": "• TẠI SAO CẦN PH14:\n- Rơm rạ mục sinh axit làm ngộ độc rễ. Đất chua (pH < 5.0) làm lân bị bọc khóa, rễ nghẹt đen.\n- PH14: Kiềm Biochar Mỹ kéo pH lên > 6.0 sau 3-5 ngày, giải độc axit, bung rễ cám trắng xóa.\n- Hỗ trợ: Mở đường cho rễ hút sạch phân NPK, cộng hưởng cùng ZAKi Rước Đòng làm nở bụi cực mạnh, chồi hữu hiệu mập mạp.",
+        "handling": "• CÁCH PHA CHUNG 1 LẦN:\nCho nước vào 2/3 bình → Đổ PH14 quậy đều → Rót ZAKi Rước Đòng vào sau → Xịt 1 lượt duy nhất, không tốn thêm công!\n\n• LỜI THOẠI CẤP THIẾT:\n\"Chú ơi, đất đang phèn mà chú không giải độc rễ thì rải bao phân nào xuống cũng trôi mất nửa bao. Chú xịt PH14 kèm lon Rước Đòng 1 lần một, vừa cứu bộ rễ bung trắng, vừa nở bụi kín ruộng mà bớt hẳn 1 cử rải phân NPK đắt đỏ chú nha!\""
+      },
+      {
+        "step": "Bước 2\n(CỬA 2)",
+        "stage": "Lúa Làm Đòng: Tim Đèn / Ôm Bắp\n\n(40 – 55 ngày)\n\n🌾 Rước Đòng (Chủ lực) + PH14 (Dẫn truyền)",
+        "guidance": "• TẠI SAO CỬ ĐÒNG VẪN CẦN PH14:\n- Giữa vụ đất bị nén chặt, phèn đáy xì lên làm tụt pH đột ngột, thối rễ đáy → lúa nghẹn đòng, thui mầm hoa, đòng ngắn ngủn.\n- PH14: Làm \"chất đệm\" ổn định pH vùng rễ, kích thích dòng nhựa luyện đẩy dinh dưỡng Lân 32.5% của ZAKi Rước Đòng lên lá và đòng nhanh gấp đôi.\n- Kết quả: Đòng no tròn mập bắp, tăng từ 130 hạt lên 180–220 hạt/bông, trổ thoát rộ 100%.",
+        "handling": "• CÁCH PHA CHUNG 1 LẦN:\nĐổ chung PH14 + Rước Đòng + thuốc sâu rầy/vi khuẩn vào 1 bình 25L hoặc 1 bồn Drone bay xịt êm ru.\n\n• LỜI THOẠI CẤP THIẾT:\n\"Nhiều chú nghĩ cử đòng không cần PH14 là uổng lắm! Cây lúa ôm đòng cần lực hút cực mạnh, rễ mà bị phèn bóp nghẹt thì đòng bị teo liền. Có PH14 dẫn đường, đòng mọng bắp, bông dài tới nách, sau này trổ thoát đồng loạt không lo nghẹn đòng chú ơi.\""
+      },
+      {
+        "step": "Bước 2\n(CỬA 3)",
+        "stage": "Lúa Trổ / Vô Sữa / Cong Trái Me\n\n(60 – 80 ngày)\n\n🍚 Vô Gạo (Chủ lực) + PH14 (Giữ rễ)",
+        "guidance": "• TẠI SAO VÔ GẠO PHẢI CÓ PH14 ĐI CÙNG:\n- Cuối vụ rễ dễ già cỗi, đen rụi sớm làm lúa bị \"đứt sữa\", lá đòng vàng sụm → hạt sát trong cậy bị lép lửng (mất 15-20% sản lượng khi gặt).\n- PH14: Giữ ẩm và giữ sức sống cho chùm rễ đến ngày gặt, đảm bảo cây bơm nước và dinh dưỡng liên tục lên bông.\n- Hỗ trợ: Bơm dòng Kali sữa ZAKi Vô Gạo nén tinh bột xối xả vào tận hạt cậy cổ bông, hạt chắc mẩy, sáng trấu, tăng 14% trọng lượng hạt (TGW).",
+        "handling": "• CÁCH PHA CHUNG 1 LẦN:\nĐổ chung PH14 + Vô Gạo + thuốc lem lép/đạo ôn cổ bông vào cùng 1 bình xịt hoặc bình Drone.\n\n• LỜI THOẠI CẤP THIẾT:\n\"Cử này PH14 giữ cho bộ rễ sống dai để bơm sữa liên tục, kết hợp lon Vô Gạo kali sữa nén chặt hạt lúa tới cậy. Cân lúa nặng ký, không bao giờ lo bị ngót ký khi phơi sấy chú ạ.\""
       },
       {
         "step": "Bước 3",
-        "stage": "Báo Giá Khách Trồng Lúa\n\n(1 ha / 10 công 1.000m²)",
-        "guidance": "• PHÂN TÍCH NHU CẦU 3 CỬ:\n- Cử 1 (7-10 ngày): Kích chùm rễ cám ăn sâu, bám đất dập phèn.\n- Cử 2 (20-25 ngày): Kích đẻ nhánh rộ, cắt sạch ngộ độc rơm rạ mục.\n- Cử 3 (40-45 ngày): Đón đòng, mở khóa Lân bị kẹt nuôi hạt lúa sáng chắc.\n\n• CHIẾN LƯỢC GIÁ: Đánh thẳng GÓI COMBO MUA 3 LON TẶNG 1 LON 1L (NHẬN 4 LON) giá gốc 1.380.000đ giảm còn 938.000đ bao cước tận nhà. Tính ra 1 lon chỉ còn 234 ngàn đồng.",
-        "handling": "• Ruộng lớn 2-3 ha up thẳng gói Mua 6 Tặng 2 (nhận 8 lon giá 1.876.000đ) hoặc Mua 9 Tặng 3 (nhận 12 lon giá 2.814.000đ).\n\n• Nhấn mạnh tiết kiệm ngay 442k tiền mặt và xài vừa tròn cả vụ lúa."
-      },
-      {
-        "step": "Bước 3",
-        "stage": "Báo Giá Khách Trồng Cây Ăn Trái / Cây Công Nghiệp\n\n(Sầu riêng, Cây có múi, Cà phê)",
-        "guidance": "• PHÂN TÍCH NHU CẦU VƯỜN CÂY: Đất bị chua hóa sau nhiều năm bón phân hóa học, tuyến trùng và nấm bệnh phát triển mạnh ở pH thấp.\n\n• ĐỊNH MỨC TƯỚI: 1 lon 1L pha 1.000 - 1.500L nước tưới phục hồi rễ.\n\n• CHIẾN LƯỢC GIÁ: Báo gói Mua 3 Tặng 1 (Nhận 4 lon giá 938k) hoặc Mua 6 Tặng 2 (Nhận 8 lon giá 1.876k) tưới phục hồi rễ sau thu hoạch và đầu mùa mưa.",
-        "handling": "• Nhấn mạnh: Dập sạch tuyến trùng và nấm vàng lá thối rễ, tạo môi trường cho vi sinh vật đối kháng phát triển."
+        "stage": "Báo Giá Theo Bảng Giá Mới & Đòn Bẩy \"3 Tặng 1\"",
+        "guidance": "• MỤC TIÊU CHIẾN LƯỢC:\n- Ruộng 5-10 công: Báo 1 Bộ (3 lon) hoặc 2 Bộ (6 lon).\n- Ruộng 15-30 công: Đánh thẳng gói 3 tặng 1 (Mua 3 Bộ Tặng 1 lon Rước Đòng - Nhận 10 lon) để khách chốt số lượng lớn tiết kiệm gần 1,9 triệu!",
+        "handling": "• BÁO GIÁ CHUẨN XÁC TỪNG MỨC:\n\n1. GÓI TRẢI NGHIỆM (1 Bộ = 3 lon):\n• Gồm: 1 PH14 + 1 Rước Đòng + 1 Vô Gạo.\n• Giá bán: 1.342.000đ (Giá gốc 1.880.000đ - Tiết kiệm 538k).\n\n2. GÓI RUỘNG NHỎ (2 Bộ = 6 lon):\n• Gồm: 2 PH14 + 2 Rước Đòng + 2 Vô Gạo.\n• Giá bán: 2.594.400đ (Giá gốc 3.760.000đ - Tiết kiệm 1.165k).\n\n3. GÓI CHỦ LỰC: 3 TẶNG 1 (Mua 3 Bộ Tặng 1 Lon Rước Đòng - Nhận 10 lon thiếc):\n• Gồm: 3 PH14 + 3 Rước Đòng + 3 Vô Gạo + TẶNG THÊM 1 LON RƯỚC ĐÒNG (Tổng nhận 10 lon 1L).\n• Giá bán ưu đãi: 3.778.800đ (Giá gốc 5.640.000đ - Tiết kiệm 1.861.200đ).\n• Chia nhỏ chi phí: Tính ra mỗi lon 1L chỉ còn ~377.000đ/lon, xịt cho cả 3 cử trọn vụ.\n• Bao cước bưu điện tận nhà."
       },
       {
         "step": "Bước 4",
-        "stage": "Chốt Đơn Quyết Đoán & Cam Kết Quyền Lợi Kiểm Tra Hàng",
-        "guidance": "• CAM KẾT QUYỀN LỢI KHÁCH HÀNG: Bao cước tận nhà, hàng tới nơi được mở thùng kiểm tra đúng Lon thiếc 1L dập tem chống giả của Công ty Phân Bón Miền Nam mới thanh toán tiền cho bưu tá.\n\n• CAM KẾT KỸ THUẬT: Sau 3-5 ngày tưới, lấy bút đo lại pH đất sẽ thấy pH kéo thẳng lên trên 6.0, rễ tơ bung trắng phau.\n\n• KHÓA ĐỊA CHỈ: Hỏi thẳng: \"Con ghi địa chỉ ấp nào, xã nào, huyện nào gửi về cho vườn nhà mình đây chú ơi?\".",
-        "handling": "1. Khóa đủ thông tin giao hàng: Họ tên, SĐT, Ấp/Thôn, Xã, Huyện/Tỉnh.\n\n2. Nhắc lại quyền lợi kiểm tra hàng trước khi trả tiền để khách yên tâm 100%."
+        "stage": "Chốt Đơn Quyết Đoán & Khóa Địa Chỉ",
+        "guidance": "• MỤC TIÊU:\n- Nhấn mạnh quyền lợi kiểm tra hàng thực tế lon thiếc Mỹ.\n- Khóa địa chỉ giao hàng dứt khoát.",
+        "handling": "• 3 CAM KẾT & CÂU HỎI KHÓA:\n✔ 100% nguyên lon thiếc nắp giật nhập khẩu, tem Cục BVTV.\n✔ Bưu điện giao tới nhà, khui thùng kiểm tra đủ lon thiếc mới trả tiền.\n✔ Thuốc mát cây 100%, kỹ sư theo sát từng cử xịt.\n\n👉 Câu hỏi khóa:\n\"Dạ vậy con xếp chương trình 3 tặng 1 này nhận tròn 10 lon thiếc giá 3.778.800đ gửi về cho chú Năm ở Ấp nào, Xã nào của Huyện mình đây chú?\""
       },
       {
         "step": "Bước 5",
-        "stage": "Xử Lý Khách Đắn Đo & Kết Bạn Zalo Đệm Tài Liệu",
-        "guidance": "• THÁI ĐỘ: Khách nói \"Để tao coi lại\", \"Để tính sau\" -> Vui vẻ tôn trọng, không cúp máy cái rụp.\n\n• HÀNH ĐỘNG: Xin số Zalo, bấm gửi lời mời kết bạn ngay trong cuộc gọi, nhờ khách bấm \"Đồng ý\".\n\n• TÀI LIỆU GỬI QUA ZALO: Gửi video Kỹ sư cắm bút đo pH đất trước và sau khi tưới pH 14 24h, kèm Giấy chứng nhận Cục BVTV.\n\n• GIỮ SUẤT ƯU ĐÃI: Tạm giữ suất quà Mua 3 Tặng 1 (giá 938k) trong ngày để bám đuổi retargeting.",
-        "handling": "👉 Mẹo Zalo đệm sau 5 phút:\n• Gửi 1 video 20s quay cảnh đo bút pH từ 3.8 nhảy lên 6.2 sau khi tưới.\n• Gửi bảng thông số Biochar hoạt hóa Mỹ.\n• Nhắn tin nhắc suất giữ giá 938k trong ngày."
+        "stage": "Xử Lý Từ Chối & Kỹ Thuật ép chốt sale sau 2 ngày , 5 ngày",
+        "guidance": "1. Khách muốn bỏ PH14 ra để mua lẻ:\n• \"Chú ơi, bỏ PH14 ra thì cây nó ăn được có 50% dinh dưỡng lon Rước Đòng với Vô Gạo thôi, rất uổng tiền. Mà đợt này lấy trọn bộ 3 được chiết khấu rẻ hơn hẳn 538k, lại pha chung 1 bình không tốn thêm công nào, chú lấy đủ bộ xài cho lúa trúng mùa chú nha!\"\n\n2. Khách đắn đo suy nghĩ:\n• \"Dạ chú cứ tính lại. Nhưng suất 3 tặng 1 này hôm nay chỉ có 3 suất cho xã mình. Con giữ suất ưu đãi tiết kiệm 1,8 triệu này cho chú tới chiều. Chú mở Zalo con gửi hình lon thiếc với video bà con xịt lúa trúng mùa cho chú xem liền nghen!\"",
+        "handling": "• KỸ THUẬT ÉP CHỐT THEO THỜI GIAN:\n- Sau 2 ngày gọi lại / nhắn tin: Nhắc lúa đang qua ngày tuổi quan trọng, kích hoạt ưu đãi bổ sung để chốt ngay trong ngày.\n- Sau 5 ngày bám đuổi dứt điểm: Đưa ra hạn chót giữ giá ưu đãi của đợt hàng, chốt hạ đơn ngâm bằng quyền lợi tặng thêm đặc biệt.\n\n(📌 Note nội bộ Telesales: Linh hoạt bung quà tặng kèm từ quỹ CS bào sau 2 ngày và 5 ngày theo bảng quy đổi để ép chốt khách)."
       }
     ]
   },
