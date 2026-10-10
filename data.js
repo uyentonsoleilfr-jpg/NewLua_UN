@@ -440,7 +440,7 @@ const AGRIZEN_DATA = {
     ]
   },
   "scriptPH": {
-    "title": "BẢNG KỊCH BẢN TƯ VẤN BỘ 3: PH14 + RƯỚC ĐÒNG + VÔ GẠO\n(Chính sách: Mua Combo 3 bộ [RĐ + VG + PH14] tặng 1 lon Rước Đòng – Phun chung 1 bình)",
+    "title": "BẢNG KỊCH BẢN TƯ VẤN BỘ 3: PH14 + RƯỚC ĐÒNG + VÔ GẠO\n(Chính sách: Mua Combo 3 bộ tặng 1 lon, 6 bộ tặng 2 lon, 9 bộ tặng 3 lon Rước Đòng – Phun chung 1 bình)",
     "noticeTitle": "3 Điểm Cốt Lõi Về Bộ 3 & PH14 Dành Cho Tư Vấn Viên:",
     "notes": [
       "1. PH14 LÀ CHẤT DẪN BẮT BUỘC PHẢI CÓ MẶT TRONG TẤT CẢ CÁC GIAI ĐOẠN: Từ đẻ nhánh, làm đòng đến trổ chín đều phải có PH14 đi kèm.",
@@ -480,9 +480,9 @@ const AGRIZEN_DATA = {
       },
       {
         "step": "Bước 3",
-        "stage": "Báo Giá Theo Bảng Giá Mới & Đòn Bẩy \"3 Tặng 1\"",
-        "guidance": "• MỤC TIÊU CHIẾN LƯỢC:\n- Ruộng 5-10 công: Báo 1 Bộ (3 lon) hoặc 2 Bộ (6 lon).\n- Ruộng 15-30 công: Đánh thẳng gói 3 tặng 1 (Mua 3 Bộ Tặng 1 lon Rước Đòng - Nhận 10 lon) để khách chốt số lượng lớn tiết kiệm gần 1,9 triệu!",
-        "handling": "• BÁO GIÁ CHUẨN XÁC TỪNG MỨC:\n\n1. GÓI TRẢI NGHIỆM (1 Bộ = 3 lon):\n• Gồm: 1 PH14 + 1 Rước Đòng + 1 Vô Gạo.\n• Giá bán: 1.342.000đ (Giá gốc 1.880.000đ - Tiết kiệm 538k).\n\n2. GÓI RUỘNG NHỎ (2 Bộ = 6 lon):\n• Gồm: 2 PH14 + 2 Rước Đòng + 2 Vô Gạo.\n• Giá bán: 2.594.400đ (Giá gốc 3.760.000đ - Tiết kiệm 1.165k).\n\n3. GÓI CHỦ LỰC: 3 TẶNG 1 (Mua 3 Bộ Tặng 1 Lon Rước Đòng - Nhận 10 lon thiếc):\n• Gồm: 3 PH14 + 3 Rước Đòng + 3 Vô Gạo + TẶNG THÊM 1 LON RƯỚC ĐÒNG (Tổng nhận 10 lon 1L).\n• Giá bán ưu đãi: 3.778.800đ (Giá gốc 5.640.000đ - Tiết kiệm 1.861.200đ).\n• Chia nhỏ chi phí: Tính ra mỗi lon 1L chỉ còn ~377.000đ/lon, xịt cho cả 3 cử trọn vụ.\n• Bao cước bưu điện tận nhà."
+        "stage": "Báo Giá Theo Bảng Giá Mới & Đòn Bẩy \"3 Tặng 1, 6 Tặng 2, 9 Tặng 3\"",
+        "guidance": "• MỤC TIÊU CHIẾN LƯỢC:\n- Ruộng nhỏ (5 - 10 công): Báo Gói Trải Nghiệm 1 Bộ (3 lon: 1.342.000đ).\n- Ruộng vừa (15 - 30 công): Đánh thẳng GÓI 3 TẶNG 1 (Mua 3 Bộ Tặng 1 lon RĐ - Nhận 10 lon giá 3.778.800đ - Tiết kiệm gần 1,9 triệu).\n- Ruộng lớn (30 - 60 công): Chốt GÓI 6 TẶNG 2 (Mua 6 Bộ Tặng 2 lon RĐ - Nhận 20 lon giá 7.332.000đ - Tiết kiệm gần 4 triệu).\n- Đại điền (> 60 - 100 công): Chốt GÓI 9 TẶNG 3 (Mua 9 Bộ Tặng 3 lon RĐ - Nhận 30 lon giá 10.659.600đ - Tiết kiệm hơn 6,2 triệu)!",
+        "handling": "• BÁO GIÁ CHUẨN XÁC TỪNG MỨC:\n\n1. GÓI TRẢI NGHIỆM (1 Bộ = 3 lon):\n• Gồm: 1 PH14 + 1 Rước Đòng + 1 Vô Gạo.\n• Giá bán: 1.342.000đ (Giá gốc 1.880.000đ - Tiết kiệm 538k).\n\n2. GÓI CHỦ LỰC: 3 TẶNG 1 (Mua 3 Bộ Tặng 1 Lon Rước Đòng - Nhận 10 lon thiếc):\n• Gồm: 3 PH14 + 3 Rước Đòng + 3 Vô Gạo + TẶNG THÊM 1 LON RƯỚC ĐÒNG (Tổng nhận 10 lon 1L).\n• Giá bán ưu đãi: 3.778.800đ (Giá gốc 5.640.000đ - Tiết kiệm 1.861.200đ, CK 33%).\n• Đơn giá: ~377.000đ/lon, xịt cho cả 3 cử trọn vụ.\n• Bao cước bưu điện tận nhà.\n\n3. GÓI RUỘNG LỚN: 6 TẶNG 2 (Mua 6 Bộ Tặng 2 Lon Rước Đòng - Nhận 20 lon thiếc):\n• Gồm: 6 PH14 + 6 Rước Đòng + 6 Vô Gạo + TẶNG THÊM 2 LON RƯỚC ĐÒNG (Tổng nhận 20 lon 1L).\n• Giá bán ưu đãi: 7.332.000đ (Giá gốc 11.280.000đ - Tiết kiệm 3.948.000đ, CK 35%).\n• Đơn giá: ~366.600đ/lon.\n• Bao cước bưu điện tận nhà.\n\n4. GÓI ĐẠI ĐIỀN: 9 TẶNG 3 (Mua 9 Bộ Tặng 3 Lon Rước Đòng - Nhận 30 lon thiếc):\n• Gồm: 9 PH14 + 9 Rước Đòng + 9 Vô Gạo + TẶNG THÊM 3 LON RƯỚC ĐÒNG (Tổng nhận 30 lon 1L).\n• Giá bán ưu đãi: 10.659.600đ (Giá gốc 16.920.000đ - Tiết kiệm 6.260.400đ, CK 37%).\n• Đơn giá: ~355.300đ/lon.\n• Bao cước bưu điện tận nhà."
       },
       {
         "step": "Bước 4",
